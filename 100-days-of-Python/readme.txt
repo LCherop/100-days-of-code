@@ -1,0 +1,1 @@
+﻿This is my attempt to the 100 days of code campaign while following the udemy course,100 Days of Code: The complete Python Pro Bootcamp for 2022.
