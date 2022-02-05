@@ -35,3 +35,6 @@
 2. [Tip Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/tip_calculator.py)
 3. [River Crossing Riddle](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
 
+**Other useful links**
+1. [ASCII ART](https://ascii.co.uk/art)
+
