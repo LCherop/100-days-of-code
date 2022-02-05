@@ -29,35 +29,27 @@ print("After making a trip, he can return with an item on None(N).\n")
 
 
 
-first = input("Which will you take first, W , G or C?\n")#g
-#r1 = input("Which do you return with? W,G,C or N")#n
+first = input("Which will you take first, W , G or C?\n")
 
-#second = input("Which will you take second, W , G or C?")#w or cW
-#r2 = input("Which do you return with? W,G,C or N")#g
-
-#third = input("Which will you take third, W , G or C?")#w or c
-#r3 = input("Which do you return with? W,G,C or N")#n
-
-#fourth = input("Which will you take fourth, W , G or C?")#g
 
 if(first == "G"):
     print("You have taken the goat across the river. No casualties.")
-    r1 = input("Do you wish to return with the goat? Y or N\n")#n
+    r1 = input("Do you wish to return with the goat? Y or N\n")
     if(r1 == "N"):
         print("You have returned to shore with no item")
-        second = input("Which will you take second, W or C?\n")#w or c
+        second = input("Which will you take second, W or C?\n")
         if(second == "W"):
             print("You have taken the wolf accross the river. No casualties.")
-            r2 = input("Which do you return with? W,G or N\n")#g
+            r2 = input("Which do you return with? W,G or N\n")
             if(r2 == "G"):
                 print("You have returned with the goat to shore.")
-                third = input("Which will you take third, G or C?\n")#c
+                third = input("Which will you take third, G or C?\n")
                 if(third == "C"):
                     print("You have taken the cabbage accross the river. No casualties.")
-                    r3 = input("Which do you return with? W,C or N\n")#n
+                    r3 = input("Which do you return with? W,C or N\n")
                     if(r3 == "N"):
                         print("You have returned to shore with no item")
-                        fourth = input("Will you take the goat across the river? Y or N\n")#g
+                        fourth = input("Will you take the goat across the river? Y or N\n")
                         if(fourth == "Y"):
                             print("You have taken the goat accross the river.")
                             print("Congratulations!! You have solved the riddle.")
@@ -94,16 +86,16 @@ if(first == "G"):
                 print("Riddle Failed") 
         elif(second == "C"):
             print("You have taken the cabbage accross the river. No casualties.")
-            r2 = input("Which do you return with? G,C or N\n")#g
+            r2 = input("Which do you return with? G,C or N\n")
             if(r2 == "G"):
                 print("You have returned with the goat to shore.")
-                third = input("Which will you take third, W , G or N?\n")#w
+                third = input("Which will you take third, W , G or N?\n")
                 if(third == "W"):
                     print("You have taken the wolf accross the river. No casualties.")
-                    r3 = input("Which do you return with? W,C or N\n")#n
+                    r3 = input("Which do you return with? W,C or N\n")
                     if(r3 == "N"):
                         print("You have returned to shore with no item")
-                        fourth = input("Will you take the goat across the river? Y or N\n")#g
+                        fourth = input("Will you take the goat across the river? Y or N\n")
                         if(fourth == "Y"):
                             print("You have taken the goat accross the river.")
                             print("Congratulations!! You have solved the riddle.")
