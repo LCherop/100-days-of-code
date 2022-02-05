@@ -1,3 +1,11 @@
+#PS. I did this using if statements because it was the task for todays lesson. But I think I will try it again with a switch case soon or any other better method.
+#However if you find a way to do this with less lines of code feel free to reach out.
+#I have added the source of the ASCII art to the log.md file in case you'd like to try something out yourself.
+#I added my own rules to the game ;).
+#You fail the riddle if:
+#1. You repeat a step
+#2. Enter an invalid choice(not one provided)
+
 print('''
 *******************************************************************************
        ;~
@@ -18,6 +26,7 @@ print("Welcome to The River Crossing Riddle")
 print("Your goal is to help the farmer cross the river successfully with a wolf(W), a goat(G) and a cabbage(C).")
 print("If left unattended together, the wolf would eat the goat, or the goat would eat the cabbage.")
 print("After making a trip, he can return with an item on None(N).\n")
+
 
 
 first = input("Which will you take first, W , G or C?\n")#g
