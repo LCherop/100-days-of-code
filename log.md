@@ -27,14 +27,26 @@
 
 **Link to work:** [River Crossing Riddle](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
 
+### Day 4: February 6, 2022
+
+
+**Today's Progress**:Created a Rock paper scissors game.
+
+**Thoughts:**  Reinforced knowledge on lists and nested lists. 
+
+**Link to work:** [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
+
 
 
 
 **Link(s) to work**
 1. [Band Name Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/BandNameGen.py)
 2. [Tip Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/tip_calculator.py)
-3. [River Crossing Riddle](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
+3. [River Crossing Riddle Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
+4. [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
+
 
 **Other useful links**
 1. [ASCII ART](https://ascii.co.uk/art)
+2. [Text to ASCII Generator](https://patorjk.com/software/taag/#p=display&f=Epic&t=IT%20'S%20%20A%20%20%20DRAW)
 
