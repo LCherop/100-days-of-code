@@ -86,3 +86,6 @@ elif(comps == 2 and choice ==1):
     print(computer_wins)
 elif(choice == comps):
     print(draw_ascii)
+    
+if(choice <0 or choice > 2):
+    print("Invalid Entry. You lose")
