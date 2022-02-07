@@ -36,6 +36,14 @@
 
 **Link to work:** [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
 
+### Day 5: February 7, 2022
+
+
+**Today's Progress**:Created a password generator.
+
+**Thoughts:**  Reinforced knowledge on for loops in python. Finally don't have to worry about passwords anymore.
+
+**Link to work:** [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
 
 
 
@@ -44,6 +52,7 @@
 2. [Tip Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/tip_calculator.py)
 3. [River Crossing Riddle Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
 4. [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
+5. [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
 
 
 **Other useful links**
