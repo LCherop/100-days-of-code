@@ -45,6 +45,14 @@
 
 **Link to work:** [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
 
+### Day 6: February 8, 2022
+
+
+**Today's Progress**: While loops in python
+
+**Thoughts:**  Reinforced knowledge on while loops in python and used it solve 4 Hurdles and a maze in Reeborg's World. 
+**Link to work:** [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
+
 
 
 **Link(s) to work**
@@ -53,9 +61,11 @@
 3. [River Crossing Riddle Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
 4. [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
 5. [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
+6. [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 
 **Other useful links**
 1. [ASCII ART](https://ascii.co.uk/art)
 2. [Text to ASCII Generator](https://patorjk.com/software/taag/#p=display&f=Epic&t=IT%20'S%20%20A%20%20%20DRAW)
+3. [Reeborg's World](https://reeborg.ca/index_en.html)
 
