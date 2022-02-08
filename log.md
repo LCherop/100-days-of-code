@@ -51,7 +51,8 @@
 **Today's Progress**: While loops in python
 
 **Thoughts:**  Reinforced knowledge on while loops in python and used it solve 4 Hurdles and a maze in Reeborg's World. 
-**Link to work:** [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
+
+**Link to work:** [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
 
 
