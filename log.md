@@ -60,6 +60,7 @@
 **Today's Progress**: Created a hangman game
 
 **Thoughts:**  Improved my logical thinking. It was fun.
+
 **Link to work:** [Hangman Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/hangman/hangman.py)
 
 
