@@ -54,6 +54,15 @@
 
 **Link to work:** [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
+### Day 6: February 9, 2022
+
+
+**Today's Progress**: Created a hangman game
+
+**Thoughts:**  Improved my logical thinking. It was fun.
+**Link to work:** [Hangman Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/hangman/hangman.py)
+
+
 
 
 **Link(s) to work**
@@ -63,6 +72,7 @@
 4. [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
 5. [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
 6. [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+7. [Hangman Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/hangman/hangman.py)
 
 
 **Other useful links**
