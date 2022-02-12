@@ -75,6 +75,16 @@
 **Link to work:** [Caesar Cypher](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/ceasar_cypher.py)
 
 
+### Day 9: February 12, 2022
+
+
+**Today's Progress**: Dictionaries and Nesting
+
+**Thoughts:**  Easy to understand and implement. I can see the fruits of constant practice now. Very proud of myself.
+
+**Link to work:** [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
+
+
 
 
 **Link(s) to work**
@@ -86,6 +96,7 @@
 6. [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 7. [Hangman Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/hangman/hangman.py)
 8. [Caesar Cypher](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/ceasar_cypher.py)
+9. [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
 
 
 **Other useful links**
