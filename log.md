@@ -85,6 +85,17 @@
 **Link to work:** [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
 
 
+### Day 10: February 13, 2022
+
+
+**Today's Progress**: Functions with output
+
+**Thoughts:**  Finally learnt the difference between return and print
+
+**Link to work:** [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
+
+
+
 
 
 **Link(s) to work**
@@ -97,6 +108,7 @@
 7. [Hangman Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/hangman/hangman.py)
 8. [Caesar Cypher](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/ceasar_cypher.py)
 9. [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
+10. [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
 
 
 **Other useful links**
