@@ -95,6 +95,16 @@
 **Link to work:** [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
 
 
+### Day 11: February 21, 2022
+
+
+**Today's Progress**: Coded a blackjack game
+
+**Thoughts:**  Was quite challenging
+
+**Link to work:** [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
+
+
 
 
 
@@ -109,6 +119,7 @@
 8. [Caesar Cypher](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/ceasar_cypher.py)
 9. [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
 10. [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
+11. [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
 
 
 **Other useful links**
