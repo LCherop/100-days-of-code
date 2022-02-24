@@ -105,6 +105,15 @@
 **Link to work:** [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
 
 
+### Day 12: February 23, 2022
+
+
+**Today's Progress**: Coded a number guessing game
+
+**Thoughts:**  Was actually not so bad. However need to work on a bug
+
+**Link to work:** [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
+
 
 
 
@@ -120,6 +129,7 @@
 9. [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
 10. [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
 11. [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
+12. [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
 
 
 **Other useful links**
