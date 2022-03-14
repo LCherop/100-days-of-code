@@ -3,7 +3,7 @@ from game_data import data
 from art import logo,vs
 from os import system
 
-
+score = 0
 
 def retrieve():
   personA = random.choice(data)
@@ -14,7 +14,7 @@ def retrieve():
   return personA["follower_count"],personB["follower_count"]
 
 def compare():
-  score = 0
+  global score
   fc1 ,fc2 = retrieve()
   entry = input("Who has more followers? Type A or B: ")
 
