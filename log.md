@@ -115,6 +115,15 @@
 **Link to work:** [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
 
 
+### Day 14: March 14, 2022
+
+
+**Today's Progress**: Implemented the console version of the Higher Lower game
+
+**Thoughts:**  Easy fix. Knowledge on debugging came in handy
+
+**Link to work:** [Higher Lower game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/higher_lower.py)
+
 
 
 **Link(s) to work**
@@ -130,6 +139,7 @@
 10. [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
 11. [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
 12. [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
+13. [Higher Lower game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/higher_lower.py)
 
 
 **Other useful links**
