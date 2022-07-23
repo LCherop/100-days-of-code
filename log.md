@@ -126,6 +126,17 @@
 
 
 
+### Day 15: March 14, 2022
+
+
+**Today's Progress**: Developed a coffee machine service on the connsole
+
+**Thoughts:**  Easy fix. Knowledge on debugging came in handy
+
+**Link to work:** [Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day-15:%20Coffee%20Machine)
+
+
+
 **Link(s) to work**
 1. [Band Name Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/BandNameGen.py)
 2. [Tip Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/tip_calculator.py)
@@ -140,6 +151,7 @@
 11. [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
 12. [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
 13. [Higher Lower game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/higher_lower.py)
+14. [Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day-15:%20Coffee%20Machine)
 
 
 **Other useful links**
