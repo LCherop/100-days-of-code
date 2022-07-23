@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: February 1, 2022
+### Day 1
 
 
 **Today's Progress**: Python string manipulation refresher using the Coding Rooms exercises
@@ -9,7 +9,7 @@
 
 **Link to work:** [Band Name Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/BandNameGen.py)
 
-### Day 2: February 2, 2022
+### Day 2
 
 
 **Today's Progress**: Arithmetic in python along with additional info  on variables
@@ -18,7 +18,7 @@
 
 **Link to work:** [Tip Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/tip_calculator.py)
 
-### Day 3: February 5, 2022
+### Day 3
 
 
 **Today's Progress**: Loops in python. Reinvented the Wolf, Goat and cabbage riddle using if statements. Leap year determiner.
@@ -27,7 +27,7 @@
 
 **Link to work:** [River Crossing Riddle](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/river_riddle.py)
 
-### Day 4: February 6, 2022
+### Day 4
 
 
 **Today's Progress**:Created a Rock paper scissors game.
@@ -36,7 +36,7 @@
 
 **Link to work:** [Rock Paper Scissors Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/rock_paper_sci.py)
 
-### Day 5: February 7, 2022
+### Day 5
 
 
 **Today's Progress**:Created a password generator.
@@ -45,7 +45,7 @@
 
 **Link to work:** [Password Generator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/passwordGenerator.py)
 
-### Day 6: February 8, 2022
+### Day 6
 
 
 **Today's Progress**: While loops in python
@@ -54,7 +54,7 @@
 
 **Link to work:** [Reeborg's World Maze Solution](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 
-### Day 7: February 9, 2022
+### Day 7
 
 
 **Today's Progress**: Created a hangman game
@@ -65,7 +65,7 @@
 
 
 
-### Day 8: February 11, 2022
+### Day 8
 
 
 **Today's Progress**: Implemented the ceasar cypher in python
@@ -75,7 +75,7 @@
 **Link to work:** [Caesar Cypher](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/ceasar_cypher.py)
 
 
-### Day 9: February 12, 2022
+### Day 9
 
 
 **Today's Progress**: Dictionaries and Nesting
@@ -85,7 +85,7 @@
 **Link to work:** [Silent Auction](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/silent_auction.py)
 
 
-### Day 10: February 13, 2022
+### Day 10
 
 
 **Today's Progress**: Functions with output
@@ -95,7 +95,7 @@
 **Link to work:** [Calculator](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/calculator.py)
 
 
-### Day 11: February 21, 2022
+### Day 11
 
 
 **Today's Progress**: Coded a blackjack game
@@ -105,7 +105,7 @@
 **Link to work:** [Blackjack Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/blackjack_game.py)
 
 
-### Day 12: February 23, 2022
+### Day 12:
 
 
 **Today's Progress**: Coded a number guessing game
@@ -115,7 +115,7 @@
 **Link to work:** [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
 
 
-### Day 14: March 14, 2022
+### Day 14:
 
 
 **Today's Progress**: Implemented the console version of the Higher Lower game
@@ -126,7 +126,7 @@
 
 
 
-### Day 15: March 14, 2022
+### Day 15
 
 
 **Today's Progress**: Developed a coffee machine service on the connsole
