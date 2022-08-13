@@ -129,11 +129,23 @@
 ### Day 15
 
 
-**Today's Progress**: Developed a coffee machine service on the connsole
+**Today's Progress**: Developed a coffee machine service 
 
 **Thoughts:**  Easy fix. Knowledge on debugging came in handy
 
 **Link to work:** [Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day-15:%20Coffee%20Machine)
+
+
+
+### Day 16
+
+
+**Today's Progress**: Developed an OOP version coffee machine service 
+
+**Thoughts:**  Python OOP is a bit more complex than Java.
+
+**Link to work:** [OOP Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_16:%20OOP%20Coffee%20Machine)
+
 
 
 
@@ -152,6 +164,7 @@
 12. [Number Guessing game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/number_guessing_game/press_play.py)
 13. [Higher Lower game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/higher_lower.py)
 14. [Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day-15:%20Coffee%20Machine)
+15. [OOP Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_16:%20OOP%20Coffee%20Machine)
 
 
 **Other useful links**
