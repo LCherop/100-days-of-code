@@ -157,6 +157,45 @@
 **Link to work:** [Quiz Game](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_17/main.py)
 
 
+### Day 18
+
+
+**Today's Progress**: Introduction to Turtle Graphics and did a turtle olympics game
+
+**Thoughts:**  The turtle ulympics game was fun to make
+
+**Link to work:** [Turtle Olympics](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_19/turtle_olympics.py)
+
+### Day 19
+
+
+**Today's Progress**: Developed an Etch-A-Sketch using Turtle
+
+**Thoughts:**  Familiarized with turtle graphics very well and using OOP concepts
+
+**Link to work:** [Etch A Sketch](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_19/etch_a_sketch.py)
+
+
+### Day 20
+
+
+**Today's Progress**: Developed Snake on Turtle Graphics
+
+**Thoughts:**  Very very fun and proud of myself for making it.
+
+**Link to work:** [Snake Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_20_and_21/main.py)
+
+
+### Day 21
+
+
+**Today's Progress**: Developed a Pong Game using turtle graphics
+
+**Thoughts:**  Playing aound with OOP concepts and turtle functions is really cool
+
+**Link to work:** [Pong Game](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_22)
+
+
 
 
 
@@ -178,6 +217,10 @@
 14. [Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day-15:%20Coffee%20Machine)
 15. [OOP Coffee Machine](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_16:%20OOP%20Coffee%20Machine)
 16. [Quiz Game](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_17/main.py)
+17. [Turtle Olympics](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_19/turtle_olympics.py)
+18. [Etch A Sketch](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_19/etch_a_sketch.py)
+19. [Snake Game](https://github.com/LCherop/100-days-of-code/blob/master/100-days-of-Python/day_20_and_21/main.py)
+20. [Pong Game](https://github.com/LCherop/100-days-of-code/tree/master/100-days-of-Python/day_22)
 
 
 **Other useful links**
